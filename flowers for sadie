@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flowers for Sofiyah</title>
+  <style>
+    body {
+      background-color: #fff0f5;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    .flowers {
+      font-size: 60px;
+      margin-bottom: 30px;
+    }
+    .message {
+      font-size: 24px;
+      color: #d63384;
+      max-width: 600px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="flowers">🌸 🌼 🌹 🌻 💐</div>
+  <div class="message">
+    Dear Sofiyah,<br><br>
+    These flowers are for you —<br>
+    to brighte
